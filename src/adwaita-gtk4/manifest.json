@@ -1,0 +1,12 @@
+{
+  "manifest_version": "1",
+  "name": "adwaita-gtk4",
+  "display_name": "Adwaita-Gtk4",
+  "extend_theme": "light",
+  "css_file": "theme.css",
+  "css_file_gtk_3.20+": "theme-gtk-3.20.css",
+  "matched_text_hl_colors": {
+    "when_selected": "#000000",
+    "when_not_selected": "#000000"
+  }
+}
